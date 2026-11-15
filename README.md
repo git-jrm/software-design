@@ -26,12 +26,12 @@ Quick guidelines on software design principles, design patterns, software archit
 
 ## 📚 Further Reading
 
+* [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/): Best practices for building secure, reliable, efficient and cost-optimized cloud systems.
 * [The C4 Model](https://c4model.com): Simple notation to document software architecture at four levels of zoom.
 * [Architecture Decision Records](https://adr.github.io/): How to capture architectural decisions and their trade-offs, with templates and tooling.
-* [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/): Best practices for building secure, reliable, efficient and cost-optimized cloud systems.
 * [Refactoring Guru: Design Patterns](https://refactoring.guru/design-patterns): Illustrated catalog of the classic GoF patterns with examples.
-* [Designing Data-Intensive Applications](https://dataintensive.net/): Martin Kleppmann's book on the trade-offs behind storage, replication and distributed systems.
 * [Software Design Principles Fundamentals](https://github.com/GoranKukic/software-design-principles-fundamentals): Illustrated handbook with practical JavaScript examples on clean code and architectural principles.
+* [Designing Data-Intensive Applications](https://dataintensive.net/): Martin Kleppmann's book on the trade-offs behind storage, replication and distributed systems.
 
 <!-- TODO: after reviewing, write own notes on data modeling, software design and software architecture instead of linking Wikipedia categories:
 https://en.wikipedia.org/wiki/Category:Data_modeling
