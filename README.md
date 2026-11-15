@@ -20,8 +20,20 @@ Quick guidelines on software design principles, design patterns, software archit
 * [Database Scaling: SQL vs NoSQL (CASE STUDIES · ES)](https://github.com/git-jrm/db-scaling-sql-nosql): Practical trade-offs on scaling relational databases, migrating to NoSQL, and designing DynamoDB keys.
 * [Data Modeling (WIKI)](https://en.wikipedia.org/wiki/Category:Data_modeling): Fundamental concepts for structuring logical entities, schemas, and data relationships.
 
-## 📚 References
+## 🔬 Applied In
 
-* [Software Design (Wikipedia)](https://en.wikipedia.org/wiki/Category:Software_design): Broad taxonomy of software design methods, concepts, and engineering standards.
-* [Software Architecture (Wikipedia)](https://en.wikipedia.org/wiki/Category:Software_architecture): High-level structures, styles, and system decisions that keep large applications scalable.
+* [Tracker](https://github.com/git-jrm/tracker): AWS serverless prototype applying these principles: C4 diagrams, ADRs, DynamoDB single-table design and a threat model.
+
+## 📚 Further Reading
+
+* [The C4 Model](https://c4model.com): Simple notation to document software architecture at four levels of zoom.
+* [Architecture Decision Records](https://adr.github.io/): How to capture architectural decisions and their trade-offs, with templates and tooling.
+* [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/): Best practices for building secure, reliable, efficient and cost-optimized cloud systems.
+* [Refactoring Guru: Design Patterns](https://refactoring.guru/design-patterns): Illustrated catalog of the classic GoF patterns with examples.
+* [Designing Data-Intensive Applications](https://dataintensive.net/): Martin Kleppmann's book on the trade-offs behind storage, replication and distributed systems.
 * [Software Design Principles Fundamentals](https://github.com/GoranKukic/software-design-principles-fundamentals): Illustrated handbook with practical JavaScript examples on clean code and architectural principles.
+
+<!-- TODO: after reviewing, write own notes on data modeling, software design and software architecture instead of linking Wikipedia categories:
+https://en.wikipedia.org/wiki/Category:Data_modeling
+https://en.wikipedia.org/wiki/Category:Software_design
+https://en.wikipedia.org/wiki/Category:Software_architecture -->
