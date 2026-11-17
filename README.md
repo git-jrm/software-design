@@ -1,11 +1,11 @@
 # 📐 Software Design
 
-Quick guidelines on software design principles, design patterns, software architecture, and data modeling following industry best practices.
+Quick guidelines and practical notes on software design: principles, design patterns and architecture styles with their trade-offs. Following industry best practices.
 
-# 📐 Index
+Data modeling is covered through case studies in a complementary repository.
 
 
-# 📐 Content
+## 🗂️ Index
 
 * 🧭 [Design Principles](./DESIGN-PRINCIPLES.md): Core rules (SOLID, KISS, DRY, YAGNI) to write clean, maintainable, and decoupled code.
 
