@@ -5,6 +5,8 @@ Quick guidelines on software design principles, design patterns, software archit
 # 📐 Index
 
 
+# 📐 Content
+
 * 🧭 [Design Principles](./DESIGN-PRINCIPLES.md): Core rules (SOLID, KISS, DRY, YAGNI) to write clean, maintainable, and decoupled code.
 
 * 🧩 [Design Patterns](./DESIGN-PATTERNS.md): Reusable blueprints to solve recurring code design problems without reinventing the wheel.
