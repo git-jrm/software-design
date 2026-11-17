@@ -2,30 +2,28 @@
 
 Quick guidelines on software design principles, design patterns, software architecture, and data modeling following industry best practices.
 
-## 🧭 Design Principles
+# 📐 Index
 
-* [Design Principles](./DESIGN-PRINCIPLES.md): Core rules (SOLID, KISS, DRY, YAGNI) to write clean, maintainable, and decoupled code.
 
-## 🧩 Design Patterns
+* 🧭 [Design Principles](./DESIGN-PRINCIPLES.md): Core rules (SOLID, KISS, DRY, YAGNI) to write clean, maintainable, and decoupled code.
 
-* [Design Patterns](./DESIGN-PATTERNS.md): Reusable blueprints to solve recurring code design problems without reinventing the wheel.
+* 🧩 [Design Patterns](./DESIGN-PATTERNS.md): Reusable blueprints to solve recurring code design problems without reinventing the wheel.
 
-## 🏛️ Software Architecture
+* 🏛️ [Software Architecture](./SOFTWARE-ARCHITECTURE.md): High-level structures, architectural styles and distributed system trade-offs.
 
-* [Software Architecture](./SOFTWARE-ARCHITECTURE.md): High-level structures, architectural styles and distributed system trade-offs.
+* 🗄️ [Data Architecture & Dimensional Modeling (CASE STUDIES · ES)](https://github.com/git-jrm/database-architecture/blob/main/data-architecture-modeling.md): Case studies covering Data Lakes, Data Warehouses, governance, and Kimball star schemas.
 
-## 🗄️ Data Modeling & Architecture
+* 🗄️ [Database Scaling: SQL vs NoSQL (CASE STUDIES · ES)](https://github.com/git-jrm/database-architecture/blob/main/db-scaling-sql-nosql.md): Practical trade-offs on scaling relational databases, migrating to NoSQL, and designing DynamoDB keys.
 
-* [Data Architecture & Dimensional Modeling (CASE STUDIES · ES)](https://github.com/git-jrm/data-architecture-modeling): Case studies covering Data Lakes, Data Warehouses, governance, and Kimball star schemas.
-* [Database Scaling: SQL vs NoSQL (CASE STUDIES · ES)](https://github.com/git-jrm/db-scaling-sql-nosql): Practical trade-offs on scaling relational databases, migrating to NoSQL, and designing DynamoDB keys.
+* 🗄️ [Data collection and preparation (CASE STUDIES · ES)](https://github.com/git-jrm/database-architecture/blob/main/data-collection-and-preparation.md): Python for prepare data pipelines.
 
 <!-- * [Data Modeling (WIKI)](https://en.wikipedia.org/wiki/Category:Data_modeling): Fundamental concepts for structuring logical entities, schemas, and data relationships. -->
 
-## 🔬 Applied In
+### 🔬 Applied In
 
 * [Tracker](https://github.com/git-jrm/tracker): AWS serverless prototype applying these principles: C4 diagrams, ADRs, DynamoDB single-table design and a threat model.
 
-## 📚 Further Reading
+# 📚 Further Reading
 
 * [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/): Best practices for building secure, reliable, efficient and cost-optimized cloud systems.
 * [The C4 Model](https://c4model.com): Simple notation to document software architecture at four levels of zoom.
