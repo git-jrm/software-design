@@ -38,11 +38,26 @@ Written in Spanish (ES) and hosted in [database-architecture](https://github.com
 * [Designing Data-Intensive Applications](https://dataintensive.net/): Martin Kleppmann's book on the trade-offs behind storage, replication and distributed systems.
 
 
-<!-- TODO: after reviewing, write own notes
+<!-- 
+
+## REFERENCES
+
+TODO: after reviewing, write own notes
 
 https://en.wikipedia.org/wiki/Category:Data_modeling
 https://en.wikipedia.org/wiki/Category:Software_design
 https://en.wikipedia.org/wiki/Category:Software_architecture 
+
+TODO: after reviewing, write own notes
+
+* https://docs.aws.amazon.com/es_es/prescriptive-guidance/latest/micro-frontends-aws/introduction.html
+* https://aws.amazon.com/blogs/mobile/backends-for-frontends-pattern/
+* https://netflixtechblog.com/seamlessly-swapping-the-api-backend-of-the-netflix-android-app-3d4317155187
+* Arquitecturas de varios niveles sin servidor de AWS con Amazon API Gateway y AWS Lambda (https://docs.aws.amazon.com/es_es/whitepapers/latest/serverless-multi-tier-architectures-api-gateway-lambda/welcome.html).
+* https://aws.amazon.com/es/blogs/compute/server-side-rendering-micro-frontends-the-architecture/
+* https://samnewman.io/patterns/architectural/bff/
+* https://serverlessland.com/patterns
+* https://teamtopologies.com/key-concepts
 
 -->
 
